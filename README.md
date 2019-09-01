@@ -1,1 +1,1 @@
-# usage: python run.py
+# usage: scrapy crawl tyc
